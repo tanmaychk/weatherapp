@@ -1,7 +1,6 @@
 
 # WeatherApp
 
-A brief description of what this project does and who it's for
 a HTML,CSS and JS **Weatherapp** using the OpenWeatherMap API
 
 
